@@ -1,0 +1,9 @@
+p {
+    font-size: 20px;
+}
+footer {
+
+    margin-left: 10px;
+    bottom: 0;
+    position: absolute;
+}

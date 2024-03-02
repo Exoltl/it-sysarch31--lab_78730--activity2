@@ -1,0 +1,33 @@
+.holder{
+    border: 2px solid;
+    position: absolute;
+    top: 0;
+    width: 95%;
+    height: 75x;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+    padding: none;
+    margin-top: -100px;
+}
+
+.holder .title {
+    display: inline;
+    padding: 10px;
+    margin-right: 50px;
+    font-size: 40px;
+}
+
+li {
+    padding: 40px;
+    display: inline;
+}
+
+a {
+    font-size: 25px;
+}
